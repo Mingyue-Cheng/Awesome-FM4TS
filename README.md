@@ -1,5 +1,8 @@
 # Awesome Self-supervised Foundation Model and Transferring Learning in Time Series Representation
 
+## Foundation Model
+1. Das, A., Kong, W., Sen, R., & Zhou, Y. (2023). A decoder-only foundation model for time-series forecasting. arXiv preprint arXiv:2310.10688.
+
 ## Self-supervised Time Series Representation
 1. Liu J, Chen S. TimesURL: Self-supervised Contrastive Learning for Universal Time Series Representation Learning[J]. arXiv preprint arXiv:2312.15709, 2023.
 2. Cheng M, Liu Q, Liu Z, et al. TimeMAE: Self-Supervised Representations of Time Series with Decoupled Masked Autoencoders[J]. arXiv preprint arXiv:2303.00320, 2023.
